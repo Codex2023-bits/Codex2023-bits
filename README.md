@@ -3,7 +3,7 @@ I'm currently working on MERN Stack projects. <br>I'm looking to collaborate on 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishake-balakrishnan-58776b286/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Secret-Hippo6086) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abishake) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:babishake8@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-161B22?style=flat-square&logo=google-chrome&logoColor=58A6FF)](https://abishake-balakrishnan-1tvulxe.gamma.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishake-balakrishnan-58776b286/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Secret-Hippo6086) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abishake) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:babishake8@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-161B22?style=flat-square&logo=google-chrome&logoColor=58A6FF)](https://abishake-balakrishnan-1tvulxe.gamma.site/)
 
 
 
