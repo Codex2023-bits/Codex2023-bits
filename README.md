@@ -12,8 +12,11 @@ I'm currently working on MERN Stack projects. <br>I'm looking to collaborate on 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Codex2023-bits&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Codex2023-bits&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex2023-bits&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🔥 My GitHub Streak
+## 🚀 My GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)
 
